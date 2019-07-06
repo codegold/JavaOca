@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f24a922-2910-44cf-a254-a4f687ef0bb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day10BinaryNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day6/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day6/SolutionThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day6/SolutionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day9recursionFactorial/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/DayOne/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/ExceptionsString/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaBigDecimal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaBigInteger/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaPrimalityTest/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaTagContentExtrator/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/LittleTests/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Page074Switch/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Page077/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Page089Loops/SearchSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JuniorLabTasks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/RgbToHex/Rgb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/ByteTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/StreamText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorythms/Algorythms/src/Linear/Greedy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorythms/Algorythms/src/Linear/GreedyAzs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorythms/Algorythms/src/Linear/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorythms/MyTests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorythms/MyTests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorythms/MyTests/SmallTests/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorythms/MyTests/SmallTests/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorythms/MyTests/Stack/StackX.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorythms/MyTests/Stack/StackX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorythms/MyTests/out/production/MyTests/SmallTests/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorythms/MyTests/out/production/MyTests/SmallTests/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EpamLessons/src/Lesson130619/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/EpamLessons/src/Lesson130619/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/SolutionTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/JavaAnagrams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/JavaAnagrams/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/JavaRegex/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/JavaRegex/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ValidateUsernameRegex/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/ValidateUsernameRegex/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/out/production/JavaOca/Test1/TestOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/RectangleIntoSquares/MSS.java" beforeDir="false" afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/RectangleIntoSquares/MSS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/SimplePigLatin/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/SimplePigLatin/Transfer.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1404546706">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2255" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2255" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArray/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Day9recursionFactorial/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Day10BinaryNumbers/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="787">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/HackerRank/JavaRegex</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HackerRank" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HackerRank/Solution/Substring.java" />
+        <option value="$PROJECT_DIR$/HackerRank/JavaSubstring/Substring.java" />
+        <option value="$PROJECT_DIR$/HackerRank/JavaSubstring/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/JavaAnagrams/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/HackerRank/JavaAnagrams/Solution.java" />
+        <option value="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/StreamText.java" />
+        <option value="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/Stream.java" />
+        <option value="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/ByteTests.java" />
+        <option value="$PROJECT_DIR$/Algorythms/MyTests/Stack/StackX.java" />
+        <option value="$PROJECT_DIR$/HackerRank/ValidateUsernameRegex/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/JavaRegex/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/Java1dArray/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/Java1dArray/SolutionMy.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/PackageB/ClassB.java" />
+        <option value="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/HackerRank/Day8Dictionaries/Solution.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Page074Switch/Solution.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Page077/Solution.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Page089Loops/SearchSimple.java" />
+        <option value="$PROJECT_DIR$/HackerRank/JavaBigDecimal/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/JavaPrimalityTest/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/JavaBigInteger/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/Day9recursionFactorial/Solution.java" />
+        <option value="$PROJECT_DIR$/HackerRank/Day10BinaryNumbers/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1259" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562353215805" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="SearchSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOca.src.Page089Loops.SearchSimple" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaOca.src.Page089Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10BinaryNumbers.Solution" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10BinaryNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOca.src.Page077.Solution" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaOca.src.Page077.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrimalityTest.Solution" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPrimalityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBigDecimal.Solution" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBigDecimal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.SearchSimple" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SearchSimple" />
+        <item itemvalue="Application.Solution (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f24a922-2910-44cf-a254-a4f687ef0bb2" name="Default Changelist" comment="" />
+      <created>1560770378383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560770378383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1259" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17419885" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14118896" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.18503937" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22474748" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.18503937" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Day8Dictionaries/Solution.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaSubstringCompressions/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaSubString/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaPallindrom/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaAnagrams/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/StreamText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="15" selection-start-column="2" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/ByteTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="15" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorythms/Lafore/Test/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorythms/MyTests/Stack/StackX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="33" lean-forward="true" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaRegex/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/ValidateUsernameRegex/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaAnagrams/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArray/SolutionMy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArrayPart2/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/PackageA/ClassA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/PackageB/ClassB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Page077/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Day8Dictionaries/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArrayPart2/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaBigDecimal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Page074Switch/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaPrimalityTest/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/JavaBigInteger/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Page089Loops/SearchSimple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Day9recursionFactorial/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Day10BinaryNumbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IdeaProjects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

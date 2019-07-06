@@ -4,6 +4,8 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Algorythms" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HackerRank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaOca/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaOca/src/Page001" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JuniorLabTasks" vcs="Git" />
   </component>
 </project>
