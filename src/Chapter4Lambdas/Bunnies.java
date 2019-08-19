@@ -13,5 +13,6 @@ public class Bunnies {
         bunniesList.removeIf(name -> name.charAt(0) != 'H');
         System.out.println(bunniesList);
 
+
     }
 }
