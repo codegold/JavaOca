@@ -1,13 +1,13 @@
-package src.Chapter5ClassDesign;
+package JavaOca.src.Chapter5ClassDesign;
 
-public class Animal {
-    private int age;
+public abstract class Animal {
+    protected int age;
 
-    public int getAge() {
-        return age;
+    public void eat() {
+        System.out.println("Animal is eating");
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
+    public abstract String getName();
 }
+
+
