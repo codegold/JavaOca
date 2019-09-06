@@ -1,4 +1,4 @@
-package src.Chapter5ClassDesign;
+package JavaOca.src.Chapter5ClassDesign;
 
 public class Kangaroo extends Marsupial {
     public static boolean isBiped() {

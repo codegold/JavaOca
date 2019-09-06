@@ -5,4 +5,9 @@ public class MacbookPro15 extends Laptop {
     public void videoCard() {
         System.out.println("1,5 gb video");
     }
+
+    public static void main(String[] args) {
+
+
+    }
 }
