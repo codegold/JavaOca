@@ -1,32 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f24a922-2910-44cf-a254-a4f687ef0bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Day10BinaryNumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Day3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Day5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Day6/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Day6/SolutionThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Day6/SolutionTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Day9recursionFactorial/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/DayOne/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/ExceptionsString/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/JavaBigDecimal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/JavaBigInteger/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/JavaPrimalityTest/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/JavaTagContentExtrator/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/LittleTests/Salmon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOca/src/Page074Switch/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOca/src/Page077/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOca/src/Page089Loops/SearchSimple.java" afterDir="false" />
+    <list default="true" id="0f24a922-2910-44cf-a254-a4f687ef0bb2" name="Default Changelist" comment="Merge branch 'master' of https://github.com/MaxRubshik/HackerRank&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
+      <change afterPath="$PROJECT_DIR$/Design_Patterns/DuckPond/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Patterns/DuckPond/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Patterns/DuckPond/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Patterns/DuckPond/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Patterns/DuckPond/Quackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Patterns/DuckPond/RedHeadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Patterns/DuckPond/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/Animal/Chimpanzee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/Animal/Primate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/Animal/Zebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/DiagonalDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/Fishes/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/Fishes/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/SockMerchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/SockMerchantTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/CCI/VeryBigSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/DAY13AbstractClasses/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/DAY15LinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day11Array2D/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day12Inheritance/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day14Scope/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day2Operators/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day2Operators/.idea/Day2Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day2Operators/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day2Operators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day2Operators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day2Operators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day5/.idea/Day5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day5/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Day5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Java2DArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaAbstractClass/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaAnnotations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaArrayDS/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaArrayLeftRotation/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaCanYouAccess/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaDeleteNode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaDinamicArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaDownToZero2/DownToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaExceptionHandling/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaExceptionHandlingTwo/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaFactoryPattern/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaInnctanceOfKeyWord/InstanceOFTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaInterface/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaIterator/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaLambdaExpressions/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaMethodOverRiding2/BiCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaMethodOverriding/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaPrimeChecker/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaPrintElemsOfLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaReflectionAttributes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaReverseADoubleLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaSingletonPattern/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaSparseArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaVarargs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaVarargs/SolutionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/JavaWaiter/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/LittleTests/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/RTJavaSHA256/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/day1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/day1/.idea/day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/day1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/day1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/day1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/day1/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/src/Day2Oper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/HumpbackWhale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookAir11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookPro13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookPro15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Rodent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Swan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Whale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/ExceptionTestTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/ExceptionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/LittleGirl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/LittleTests/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/LittleTests/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOca/src/LittleTests/Weather.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JuniorLabTasks/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/RgbToHex/Rgb.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/ByteTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/Stream.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/StreamText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T_SYS/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T_SYS/Subsequence/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/ArrayList/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/Comparator/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/Iterator/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/Lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/Lambda/LambdaTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/MultyThreading/MultyThreadingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/Queue/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/Static/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/StringBuilder/SBtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nali/Volatile/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sweater/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sweater/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sweater/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sweater/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sweater/.idea/sweater.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sweater/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorythms" beforeDir="false" afterPath="$PROJECT_DIR$/Algorythms" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorythms/Algorythms/src/Linear/Greedy.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorythms/Algorythms/src/Linear/GreedyAzs.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorythms/Algorythms/src/Linear/Test.java" beforeDir="false" />
@@ -34,20 +124,204 @@
       <change beforePath="$PROJECT_DIR$/Algorythms/MyTests/SmallTests/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorythms/MyTests/SmallTests/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorythms/MyTests/Stack/StackX.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorythms/MyTests/Stack/StackX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorythms/MyTests/out/production/MyTests/SmallTests/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorythms/MyTests/out/production/MyTests/SmallTests/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EpamLessons/EpLessons/EpamLessons/Lesson16072019/MyAbstractSortedSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/EpamLessons/EpLessons/EpamLessons/Lesson16072019/MyAbstractSortedSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EpamLessons/EpLessons/EpamLessons/Lesson16072019/MySortedSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/EpamLessons/EpLessons/EpamLessons/Lesson16072019/MySortedSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EpamLessons/EpLessons/EpamLessons/Lesson16072019/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/EpamLessons/EpLessons/EpamLessons/Lesson16072019/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EpamLessons/src/Lesson130619/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/EpamLessons/src/Lesson130619/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/SolutionTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/JavaAnagrams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/JavaAnagrams/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/JavaRegex/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/JavaRegex/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ValidateUsernameRegex/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/ValidateUsernameRegex/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Day2Operators/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Day2Operators/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Day5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Day5/Day5/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Java1dArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Java1dArray/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Binary/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Binary/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/BinarySearch/Programm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/ConvertALinkedList/ConvertALinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/ConvertALinkedList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day10BinaryNumbers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day2Operators/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day3/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day5/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day6/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day6/SolutionThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day6/SolutionTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day8Dictionaries/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Day9recursionFactorial/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/DayOne/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/EqualsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/ExceptionsString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/ExtractFileName/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Factorial/FactMy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Factorial/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Fibonacci/FiboMy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Fibonacci/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/FindOddIn/FindOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/HackerRank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/HackerRank/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Interfaces/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Interfaces/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Interfaces/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Interfaces/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Java1dArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Java1dArray/SolutionMy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Java1dArrayPart2/Solution$MovementType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Java1dArrayPart2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Java1dArrayPart2/SolutionTwo$Moving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Java1dArrayPart2/SolutionTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaAnagrams/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaAnagrams/SolutionTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaBigDecimal/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaBigDecimal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaBigInteger/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaClassVsInstance/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaCurrencyFormatter/CurrencyFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaDataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaDateAndTime/DateAndTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaDateAndTime/DateAndTimeAnother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaEndOfFile/EndOfFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaEndOfFile/EndOfFileSecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaIfElse/IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaIntToString/DoNotTerminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaIntToString/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaIntToString/DoNotTerminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaIntToString/IntToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaLoops2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/src/PackageA/ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/src/PackageB/ClassB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/src/Page074Switch/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/src/Page077/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaOca/src/Page089Loops/SearchSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaPallindrom/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaPrimalityTest/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaRegex/MyRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaRegex/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaStaticInitializerBlock/StaticInitializerBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaStringsIntroduction/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaSubString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaSubstringCompressions/MySolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaSubstringCompressions/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaSubstringCompressions/SolutionAnother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/JavaTagContentExtrator/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/ArrayApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/ArrayIns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/BankApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/BubbleSort/ArrayBub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/BubbleSort/BubbleSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/ClassDataApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/ClassDataArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/HighArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/HighArrayApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/InsertSort/InsertSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/InsertSort/MyArrayIns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/InsertSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/LowArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/LowArrayApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/ObjectSort/ArrayInOb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/ObjectSort/ObjectSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/ObjectSort/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/OrdArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/OrderedApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/SelectSort/ArraySel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lafore/SelectSort/SelectSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Lesson130619/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Linear/BackPack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Linear/FractionalKnapsack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Linear/Greedy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Linear/GreedyAzs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Linear/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Linear/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Linear/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/LittleTests/Reg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/LittleTests/Salmon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/LittleTests/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/LittleTestsHR/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MultipliesOf3or5/Multplies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyLamp/CounterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyLamp/ElectricityConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyLamp/Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyLamp/Program$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyLamp/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyLamp/Radio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyLamp/Switcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/ArrayZap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/FromCyberFo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/GreedyTestMem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/InserBinar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/InsertSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/MyArrayIns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/MyBubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/NoDups.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/NoDupsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/Yandex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/Yandex_1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/Yandex_2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/MyTests/yandex_2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Page001/Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Page009/ImportExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/PatternSyntaxChecker/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/PullYourWordsMyTests/MST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/PullYourWordsMyTests/MST2Solved.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/PullYourWordsMyTests/My.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/PullYourWordsMyTests/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/PullYourWordsTogether/My.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Queue/QueueApp.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/RectangleIntoSquares/MSS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Reverse/ReverseApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Reverse/Reverser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Reverse/StackX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/RgbToHex/Rgb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/ScannerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/SimplePigLatin/Transfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/SmallTests/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/SmallTests/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/SmallTests/ScannerExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/SmallTests/ScannerExceptionTrace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Stack/BracketChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Stack/BracketsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Stack/StackApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Stack/StackChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Stack/StackX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Stream/StreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/StringTokens/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Test/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Test/Stream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/Test/StreamText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/TortoiseRacing/Race.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/TripletsCompare/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/TripletsCompare/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/ValidateUsernameRegex/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/ValidateUsernameRegex/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/WarmUp1/SleepIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/WhoLikesIt/WhoLikes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/out/production/IdeaProjects/Algorythms/out/production/IdeaProjects/WhoLikesIt/likes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaOca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaOca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaOca/out/production/JavaOca/Test1/TestOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/out/production/JavaOca/Page001/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/out/production/JavaOca/Page001/Zoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/out/production/JavaOca/Page009/ImportExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/out/production/JavaOca/Page009/ImportExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Kangaroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Kangaroo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Marsupial.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Marsupial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/src/PackageA/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/src/PackageA/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOca/src/PackageB/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOca/src/PackageB/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JuniorLabTasks" beforeDir="false" afterPath="$PROJECT_DIR$/JuniorLabTasks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/RectangleIntoSquares/MSS.java" beforeDir="false" afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/RectangleIntoSquares/MSS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/SimplePigLatin/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/SimplePigLatin/Transfer.java" afterDir="false" />
     </list>
@@ -61,34 +335,35 @@
     <session id="-1404546706">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="34" />
+          <entry key="java" value="225" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="34" />
+          <entry key="JAVA" value="225" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2255" />
+          <entry key="java" value="20520" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2255" />
+          <entry key="JAVA" value="20520" />
         </counts>
       </usages-collector>
     </session>
@@ -96,19 +371,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArray/Solution.java">
+        <entry file="file://$PROJECT_DIR$/JavaOca/src/LittleTests/Weather.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="162">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Day9recursionFactorial/Solution.java">
+        <entry file="file://$PROJECT_DIR$/JavaOca/src/LittleTests/Loop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/ExceptionTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/InitializationOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/src/Day2Oper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,10 +423,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Day10BinaryNumbers/Solution.java">
+        <entry file="file://$PROJECT_DIR$/sweater/sweater/src/main/java/com/example/sweater/repos/UserRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="787">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="198">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,7 +439,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -143,43 +451,135 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HackerRank" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sweater" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HackerRank/Solution/Substring.java" />
-        <option value="$PROJECT_DIR$/HackerRank/JavaSubstring/Substring.java" />
-        <option value="$PROJECT_DIR$/HackerRank/JavaSubstring/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/JavaAnagrams/SolutionTwo.java" />
-        <option value="$PROJECT_DIR$/HackerRank/JavaAnagrams/Solution.java" />
-        <option value="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/StreamText.java" />
-        <option value="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/Stream.java" />
-        <option value="$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/ByteTests.java" />
-        <option value="$PROJECT_DIR$/Algorythms/MyTests/Stack/StackX.java" />
-        <option value="$PROJECT_DIR$/HackerRank/ValidateUsernameRegex/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/JavaRegex/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/Java1dArray/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/Java1dArray/SolutionMy.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/Stringbuilder.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/Mutable.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/NotImmutable.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Animals.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/CheckTrait.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/CheckIfHopper.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Animal.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/CheckIfSwimmer.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/TraditionalSearch.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/PredicateSearch.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/SockMerchantTwo.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/SockMerchant.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Bunnies.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/BirdSeed.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Order.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/OrderDriver.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/VeryBigSum.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/DiagonalDifference.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/Animal/Animal.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/Animal/Zebra.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/Animal/Primate.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/Animal/Chimpanzee.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/Fishes/Fish.java" />
+        <option value="$PROJECT_DIR$/HackerRank/CCI/Fishes/Shark.java" />
         <option value="$PROJECT_DIR$/JavaOca/src/PackageB/ClassB.java" />
-        <option value="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/Java1dArrayPart2/SolutionTwo.java" />
-        <option value="$PROJECT_DIR$/HackerRank/Day8Dictionaries/Solution.java" />
-        <option value="$PROJECT_DIR$/JavaOca/src/Page074Switch/Solution.java" />
-        <option value="$PROJECT_DIR$/JavaOca/src/Page077/Solution.java" />
-        <option value="$PROJECT_DIR$/JavaOca/src/Page089Loops/SearchSimple.java" />
-        <option value="$PROJECT_DIR$/HackerRank/JavaBigDecimal/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/JavaPrimalityTest/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/JavaBigInteger/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/Day9recursionFactorial/Solution.java" />
-        <option value="$PROJECT_DIR$/HackerRank/Day10BinaryNumbers/Solution.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/PackageA/ClassA.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Mouse.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Bird.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Marsupial.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Animal.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Swan.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/HumpBackWhale.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Whale.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/HumpbackWhale.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Rodent.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Laptop.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookPro13.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookAir11.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Kangaroo.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Lion.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookPro15.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/LittleGirl.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/ExceptionTests.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/ExecptionTestTwo.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/ExceptionTestTwo.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/LittleTests/Calculator.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/LittleTests/Weather.java" />
+        <option value="$PROJECT_DIR$/JavaOca/src/LittleTests/Loop.java" />
+        <option value="$PROJECT_DIR$/springproject/springproject/springproject/src/main/java/model/Builder.java" />
+        <option value="$PROJECT_DIR$/springproject/springproject/springproject/src/main/java/model/User.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="498" />
     <option name="y" value="23" />
-    <option name="width" value="1259" />
-    <option name="height" value="1057" />
+    <option name="width" value="1182" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -190,6 +590,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,22 +601,32 @@
             <path>
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="sweater" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562353215805" />
+    <property name="SearchEverywhereHistoryKey" value="code&#9;ACTION&#9;CodeFormatGroup" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572034026405" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/HackerRank" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="JavaOca.src" />
+      <recent name="JavaOca.src.PondTwo.shore" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="springproject.springproject.springproject.src.main.java.model" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,13 +640,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
-    <configuration name="SearchSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaOca.src.Page089Loops.SearchSimple" />
+  <component name="RunManager" selected="Application.Day2Oper">
+    <configuration name="Airplane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOca.src.LittleTests.Airplane" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOca.src.Page089Loops.*" />
+          <option name="PATTERN" value="JavaOca.src.LittleTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +654,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10BinaryNumbers.Solution" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOca.src.LittleTests.Calculator" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day10BinaryNumbers.*" />
+          <option name="PATTERN" value="JavaOca.src.LittleTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +667,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaOca.src.Page077.Solution" />
+    <configuration name="Day2Oper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Day2Oper" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOca.src.Page077.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +680,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrimalityTest.Solution" />
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOca.src.LittleTests.Loop" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPrimalityTest.*" />
+          <option name="PATTERN" value="JavaOca.src.LittleTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +693,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBigDecimal.Solution" />
+    <configuration name="Weather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOca.src.LittleTests.Weather" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaBigDecimal.*" />
+          <option name="PATTERN" value="JavaOca.src.LittleTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,19 +707,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.SearchSimple" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Airplane" />
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.Weather" />
+      <item itemvalue="Application.Loop" />
+      <item itemvalue="Application.Day2Oper" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.SearchSimple" />
-        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Day2Oper" />
+        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.Weather" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Airplane" />
       </list>
     </recent_temporary>
   </component>
@@ -323,13 +734,21 @@
       <option name="presentableId" value="Default" />
       <updated>1560770378383</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/MaxRubshik/HackerRank&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
+      <created>1563261243089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563261243089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1259" height="1057" extended-state="0" />
+    <frame x="498" y="23" width="1182" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17419885" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22105263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,15 +757,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14118896" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3234649" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19188596" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.18503937" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.15241228" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3293979" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -354,254 +774,550 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32971016" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22474748" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.18503937" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/MaxRubshik/HackerRank&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/MaxRubshik/HackerRank&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/InitializationOrder.java</url>
+          <line>10</line>
+          <properties field="COUNT" class="JavaOca.src.Chapter4MethodsEncapsulation.InitializationOrder" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>4</line>
+          <properties field="end" class="JavaOca.src.LittleTests.Airplane" />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>3</line>
+          <properties field="start" class="JavaOca.src.LittleTests.Airplane" />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Day8Dictionaries/Solution.java</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/NotImmutable.java</url>
+          <line>14</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/NotImmutable.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/NotImmutable.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/NotImmutable.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/NotImmutable.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/NotImmutable.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/TraditionalSearch.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/TraditionalSearch.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/BirdSeed.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/BirdSeed.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Order.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Order.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Order.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HackerRank/CCI/VeryBigSum.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HackerRank/CCI/Animal/Chimpanzee.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>11</line>
+          <properties class="JavaOca.src.LittleTests.Airplane" method="fly">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java</url>
+          <line>6</line>
+          <properties class="JavaOca.src.LittleTests.Airplane" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaSubstringCompressions/Solution.java">
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/CheckIfHopper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaSubString/Solution.java">
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/CheckTrait.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaPallindrom/Solution.java">
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/PredicateSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/TraditionalSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#270#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Bunnies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4Lambdas/BirdSeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/SockMerchantTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaAnagrams/Solution.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="1457">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/StreamText.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/FileWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="217">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/Stream.java">
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/VeryBigSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="15" selection-start-column="2" selection-end-line="29" selection-end-column="3" />
+        <state relative-caret-position="97">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JuniorLabTasks/JuniorLabTasks/src/Test/ByteTests.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="15" selection-end-line="13" />
+        <state relative-caret-position="-283">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorythms/Lafore/Test/Stream.java">
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/SockMerchant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="232">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorythms/MyTests/Stack/StackX.java">
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/Animal/Zebra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="33" lean-forward="true" selection-end-line="33" />
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaRegex/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ValidateUsernameRegex/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaAnagrams/SolutionTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArray/SolutionMy.java">
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/Animal/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArrayPart2/SolutionTwo.java">
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/DiagonalDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        <state relative-caret-position="297">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/Animal/Primate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/Animal/Chimpanzee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/Fishes/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaOca/src/PackageA/ClassA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaOca/src/PackageB/ClassB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Marsupial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/CCI/Fishes/Shark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Swan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Whale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/HumpbackWhale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Rodent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookAir11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookPro13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Lion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/MacbookPro15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaOca/src/Page077/Solution.java">
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/LittleGirl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="285">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Day8Dictionaries/Solution.java">
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter5ClassDesign/Kangaroo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="324">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/ExceptionTestTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/LittleTests/Airplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/LittleTests/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springproject/springproject/springproject/src/main/java/model/Builder.java" />
+    <entry file="file://$PROJECT_DIR$/springproject/springproject/springproject/src/main/java/model/User.java" />
+    <entry file="file://$PROJECT_DIR$/sweater/sweater/src/main/java/com/example/sweater/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/LittleTests/Weather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/LittleTests/Loop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter6Exceptions/ExceptionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOca/src/Chapter4MethodsEncapsulation/InitializationOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/src/Day2Oper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArrayPart2/Solution.java">
+    <entry file="file://$PROJECT_DIR$/sweater/sweater/src/main/java/com/example/sweater/repos/UserRepo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaBigDecimal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaOca/src/Page074Switch/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaPrimalityTest/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/JavaBigInteger/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaOca/src/Page089Loops/SearchSimple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Java1dArray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Day9recursionFactorial/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Day10BinaryNumbers/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="787">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

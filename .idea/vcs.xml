@@ -3,9 +3,16 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Algorythms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Design_Patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EpamLessons/EpLessons" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HackerRank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaOca" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JavaOca/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JavaOca/src/Page001" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JuniorLabTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/T_SYS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nali" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sweater" vcs="Git" />
   </component>
 </project>
