@@ -14,4 +14,8 @@
     <bean id="theStage"
           class="app.Stage"
           factory-method="getInstance"/>
+    <bean id="auditorium"
+          class="app.Auditorium"
+          init-method="turnOnLights"
+          destroy-method="turnOffLights"/>
 </beans>
