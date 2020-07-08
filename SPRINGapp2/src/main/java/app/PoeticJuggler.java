@@ -1,6 +1,6 @@
 package app;
 
-public class PoeticJuggler extends Juggler{
+public class PoeticJuggler extends Juggler {
     private Poem poem;
 
     public PoeticJuggler(Poem poem) {
@@ -11,5 +11,11 @@ public class PoeticJuggler extends Juggler{
     public PoeticJuggler(int beanBags, Poem poem) {
         super(beanBags);
         this.poem = poem;
+    }
+
+    public void perform() throws PerformanceException {
+        super.perform();
+        System.out.println("While reciting... ");
+        poem.recite();
     }
 }
