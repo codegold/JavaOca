@@ -9,7 +9,7 @@ public class testDrive {
                 "applicationContext.xml"
         );
 
-        Performer performer = (Performer) context.getBean("duke");
+        Performer performer = (Performer) context.getBean("poeticDuke");
         performer.perform();
     }
 }

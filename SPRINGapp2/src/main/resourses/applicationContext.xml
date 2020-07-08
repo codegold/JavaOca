@@ -4,10 +4,14 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
     <!-- Здесь должны находиться объявления компонентов -->
-    <bean id="duke"
-          class="app.Juggler">
+    <bean id="poeticDuke"
+          class="app.PoeticJuggler">
         <constructor-arg value="15"/>
+        <constructor-arg ref="sonnet29"/>
     </bean>
-
-
+    <bean id="sonnet29"
+          class="app.Sonnet29"/>
+    <bean id="theStage"
+          class="app.Stage"
+          factory-method="getInstance"/>
 </beans>
