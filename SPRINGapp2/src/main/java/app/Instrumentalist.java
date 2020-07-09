@@ -1,16 +1,32 @@
 package app;
 
-import javax.sound.midi.Instrument;
 
-public class Instrumentalist implements Performer {
+public class Instrumentalist  implements Performer {
     public Instrumentalist() {
     }
 
     private String song;
-    private app.Instrument instrument;
+    private int age;
+    private Instrument instrument;
 
     public String getSong() {
         return song;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public Instrument getInstrument() {
+        return instrument;
+    }
+
+    public void setInstrument(Instrument instrument) {
+        this.instrument = instrument;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
     }
 
     public void setSong(String song) {
