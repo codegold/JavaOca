@@ -39,4 +39,12 @@
 
     <bean id="piano"
           class="app.Piano"/>
+
+    <bean id="duke"
+          class="app.PoeticJuggler">
+        <constructor-arg value="15"/>
+        <constructor-arg>
+            <bean class="app.Sonnet29"/>
+        </constructor-arg>
+    </bean>
 </beans>
