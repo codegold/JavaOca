@@ -24,14 +24,25 @@
           class="app.Instrumentalist">
         <property name="song" value="Jingle Bells"/>
         <property name="instrument">
-                <bean class="app.Saxophone"/>
+            <bean class="app.Saxophone"/>
         </property>
     </bean>
 
     <bean id="kenny2"
           class="app.Instrumentalist">
-          <property name="song" value="Jingle Bells"/>
-          <property name="instrument" ref="piano"/>
+        <property name="song" value="Jingle Bells"/>
+        <property name="instrument" ref="piano"/>
+    </bean>
+
+    <bean id="hank"
+          class="app.OneManBand">
+        <property name="instruments">
+        <list>
+            <ref bean="guitar"/>
+            <ref bean="harmonica"/>
+            <ref bean="cymbal"/>
+        </list>
+        </property>
     </bean>
 
     <bean id="saxophone"

@@ -14,7 +14,7 @@ public class OneManBand implements Performer {
 
     @Override
     public void perform() throws PerformanceException {
-        for (Instrument instrument: instruments){
+        for (Instrument instrument : instruments) {
             instrument.play();
         }
     }
