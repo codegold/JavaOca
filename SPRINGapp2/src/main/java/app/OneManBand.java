@@ -1,11 +1,15 @@
 package app;
 
-import java.util.Collection;
+import java.util.Map;
+
+import app.Instrument;
+import app.PerformanceException;
+import app.Performer;
 
 public class OneManBand implements Performer {
-    private Collection<Instrument> instruments;
+    private Map<String, Instrument> instruments;
 
-    public void setInstruments(Collection<Instrument> instruments) {
+    public void setInstruments(Map<String, Instrument> instruments) {
         this.instruments = instruments;
     }
 
@@ -14,10 +18,10 @@ public class OneManBand implements Performer {
 
     @Override
     public void perform() throws PerformanceException {
-        for (Instrument instrument : instruments) {
+        for (String key: instruments.keySet()){
+            System.out.println(key+ ": ");
+            Instrument instrument = instruments.get(key);
             instrument.play();
         }
     }
-
-
 }
