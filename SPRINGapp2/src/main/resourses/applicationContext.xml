@@ -37,12 +37,18 @@
     <bean id="hank"
           class="app.OneManBand">
         <property name="instruments">
-        <map>
-            <entry key="GUITAR" value-ref="guitar"/>
-            <entry key="CYMBAL" value-ref="cymbal"/>
-            <entry key="HARMONICA" value-ref="harmonica"/>
-        </map>
+            <props>
+                <prop key="GUITAR">STRUM STRUM</prop>
+                <prop key="CYMBAL">CRASH CRASH</prop>
+                <prop key="HARMONICA">HUM HUM</prop>
+            </props>
         </property>
+
+    </bean>
+
+    <bean id="carl"
+          class="app.Instrumentalist">
+        <property name="song" value="#{kenny.song}"/>
     </bean>
 
     <bean id="saxophone"
