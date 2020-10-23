@@ -1,5 +1,6 @@
 package com.example.nailtests.controllers;
 
+import com.example.nailtests.dao.PersonDao;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -10,15 +11,22 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/people")
 public class PeopleController {
 
+    private final PersonDao personDao;
+
+    public PeopleController(PersonDao personDao) {
+        this.personDao = personDao;
+    }
+
     @GetMapping()
     public String index(Model model) {
-        //получим всех людей из ДАО и передадим в представление
-        return null;
+        model.addAttribute("people", personDao.index());
+        return "people/index";
     }
 
     @GetMapping("/{id}")
     public String show(@PathVariable("id") int id, Model model) {
-        //get one person by id and return
-        return null;
+
+        model.addAttribute("person", personDao.show(id));
+        return "people/show";
     }
 }
