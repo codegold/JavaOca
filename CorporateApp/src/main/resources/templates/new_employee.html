@@ -16,7 +16,7 @@
     <h2>Save new employee</h2>
     <form action="#" th:action="@{/saveEmployee}" th:object="${employee}" method="POST">
         <!-- refer to property of employee object SYNTAX-->
-        <input type="text" th:field="*{id}" placeholder="ID" class="form-control mb-4 col-4">
+        <!--<input type="text" th:field="*{id}" placeholder="ID" class="form-control mb-4 col-4">-->
         <input type="text" th:field="*{firstName}" placeholder="First name" class="form-control mb-4 col-4">
         <input type="text" th:field="*{lastName}" placeholder="Last name" class="form-control mb-4 col-4">
         <input type="text" th:field="*{email}" placeholder="Email" class="form-control mb-4 col-4">
