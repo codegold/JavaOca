@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Virus Tracker App</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css"
+          integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+    <!--<p th:text="${locationStatistics}"></p>-->
+    <div class="jumbotron">
+        <h1 class="display-4">Total cases reported worldwide!</h1>
+        <h1 class="display-4" th:text="${totalCasesWorldwide}"></h1>
+        <hr class="my-4">
+        <p>
+            <span>New cases since prev day</span>
+            <span th:text="${totalNewCases}"></span>
+        </p>
+    </div>
+    <table class="table">
+        <tr>
+            <th>State</th>
+            <th>Country</th>
+            <th>Latest Total Cases</th>
+            <th>Increasing daily</th>
+        </tr>
+        <tr th:each="locationStats : ${locationStatistics}">
+            <td th:text="${locationStats.state}"></td>
+            <td th:text="${locationStats.country}"></td>
+            <td th:text="${locationStats.latestTotalCases}"></td>
+            <td th:text="${locationStats.delta}"></td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
